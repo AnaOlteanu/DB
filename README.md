@@ -1,0 +1,1 @@
+Individual school project that consolidates my knowledge in SQL: creating tables, adding information in them, manipulating data (queries). I simulated a five night event at a restaurant, building tables for the menus, the dishes, the orders, the clients and the providers of the dishes. 
